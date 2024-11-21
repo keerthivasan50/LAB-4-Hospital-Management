@@ -44,5 +44,12 @@ SEQUENCE DIAGRAM
 
 
 
+
+
+
 ### RESULT:
+
+
+
+
 Thus the Hospital management System project was executed and the output was verified.
